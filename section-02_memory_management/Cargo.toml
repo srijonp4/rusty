@@ -1,0 +1,6 @@
+[package]
+name = "section-02_memory_management"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
